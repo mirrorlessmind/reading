@@ -1,7 +1,5 @@
 # Reading
-Verbose-Happiness
-
-  <h1> ReadMe Well </h1>
+Verbose-Happiness Generator
 
 ## Table of Contents
 - [Use](#use)
