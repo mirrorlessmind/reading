@@ -10,16 +10,19 @@ Verbose-Happiness Generator
 - [Tests](#tests)
 - [Questions](#questions)
 ## Usage
-undefined;
+Use for saving time when creating ReadMe's for your repository.
 
 ## Description 🔥
 This package uses inquirer to generate questions for the user. We added inline Html to style the generated readMe page.We aslo use promisify to keep that code more clear.
+
+##Link to Video:
+[![Cigi's Generator](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://youtu.be/jamEs0lTWSA)
 
 ## Contributing Partners ✨
 TAs
 
 ## Installation 💻
-Please run npm install.
+Please run npm install to use this app
 
 ## License 
 ![badge](https://img.shields.io/badge/license-MIT-blue)
