@@ -13,21 +13,31 @@ function promptUser(){
             name: "title",
             message: "What is the title of your project?",
         },
-        {
-            type: "input",
-            name: "description",
-            message: "Briefly enlighten us on your project: "
-        },
-        {
-            type: "input",
-            name: "install",
-            message: "What will be the installation process if any? ",
-        },
+        
         {
             type: "input",
             name: "use",
             message: "What greatness will you use this project to accomplish?"
         },
+        
+        {
+            type: "input",
+            name: "description",
+            message: "Briefly enlighten us with a description on your project: "
+        },
+        
+        {
+            type: "input",
+            name: "contributors",
+            message: "Were there any contributors to this project?"
+        },
+        
+        {
+            type: "input",
+            name: "install",
+            message: "What will be the installation process if any? ",
+        },
+        
         {
             type: "list",
             name: "license",
@@ -42,21 +52,25 @@ function promptUser(){
                 "Open"
             ]
         },
+      
         {
             type: "input",
-            name: "contributors",
-            message: "Were there any contributors to this project?"
-        },
-        {
-            type: "input",
-            name: "tests",
+            name: "test",
             message: "Is there a test included?"
         },
+
         {
             type: "input",
-            name: "questions",
+            name: "question",
             message: "What do I do if I have an issue? "
         },
+
+        {
+            type: "input",
+            name: "email",
+            message: "Please enter your email: "
+        },
+
         {
             type: "input",
             name: "username",
@@ -64,9 +78,10 @@ function promptUser(){
         },
         {
             type: "input",
-            name: "email",
-            message: "Please enter your email: "
-        }
+            name: "usernamelink",
+            message: "Please enter your LinkedIn username: "
+        },
+       
     ]);
 } 
 
@@ -78,7 +93,7 @@ function promptUser(){
         const generateContent = generateReadme(answers);
         // Write new README.md to dist directory
         await writeFileAsync('.README.md', generateContent);
-        console.log('Successfully wrote to README.md');
+        console.log('Woo-Hoo! Successfully wrote to README.md');
     }   catch(err) {
         console.log(err);
     }
