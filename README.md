@@ -15,7 +15,7 @@ Use for saving time when creating ReadMe's for your repository.
 ## Description 🔥
 This package uses inquirer to generate questions for the user. We added inline Html to style the generated readMe page.We aslo use promisify to keep that code more clear.
 
-##Link to Video:
+## Link to Video:
 Cigi's Generator "https://youtu.be/jamEs0lTWSA"
 
 ## Contributing Partners ✨
@@ -24,13 +24,11 @@ TAs
 ## Installation 💻
 Please run npm install to use this app
 
-## License 
+## License 😎
 ![badge](https://img.shields.io/badge/license-MIT-blue)
 
 This application is covered by the MIT license. Please refer to documention for further information.
 
-## Tests Included? 😎
-No
 
 ## What do I do if I have an issue? 😔
 Contact Us <br />
