@@ -1,32 +1,40 @@
- What this. 👋</h1>
 
-![badge](https://img.shields.io/badge/license-MIT-brightgreen)<br />
-## Description
-🔍 Tell me what an object is.
+  <h1> Generate Happiness </h1>
+
+
 ## Table of Contents
+- [Use](#use)
 - [Description](#description)
-- [Installation](#installation)
-- [Usage](#usage)
-- [License](#license)
 - [Contributing](#contributing)
+- [Installation](#installation)
+- [License](#license)
 - [Tests](#tests)
 - [Questions](#questions)
-## Installation
-Run npm install
 ## Usage
-Fun
-## License
-![badge](https://img.shields.io/badge/license-MIT-brightgreen)
+Make people Happy
+
+## Description 🔥
+Use new skills to make people happy
+
+## Contributing Partners ✨
+TS
+
+## Installation 💻
+NPM Install
+
+## License 
+![badge](https://img.shields.io/badge/license-MIT-blue)
 <br />
-This application is covered by the MIT license. 
-## Contributing
-Kermit
-## Tests
-✏️ Yes
-## Questions
-Run<br />
-<br />
-Find me on GitHub: [mm](https://github.com/mm)<br />
-<br />
-Email me with any questions: mm<br /><br />
-  
+This application is covered by the MIT license. Please refer to documention for further information.
+
+## Tests Included? 😎
+No
+
+## What do I do if I have an issue? 😔
+Contact Us<br />
+
+## Contact Me 😻 ~ cigi@mirrorlessmind.com<br />
+
+
+Visit our awesome GitHub : [MirrorlessMind](https://github.com/MirrorlessMind)<br />
+Wanna Know More Visit My LinkedIn: [MirrorlessMind](https://linkedIn.com/MirrorlessMind)<br />
