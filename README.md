@@ -2,7 +2,6 @@
 Verbose-Happiness
 
   <h1> ReadMe Well </h1>
-![badge](https://img.shields.io/badge/license-MIT-blue)<br />
 
 ## Table of Contents
 - [Use](#use)
@@ -33,12 +32,9 @@ This application is covered by the MIT license. Please refer to documention for 
 No
 
 ## What do I do if I have an issue? 😔
-Email Us<br />
+Email Us <br />
 
-Contact Me 😻 ~ $mailto:{answers.email}<br />
-
-
-
+😻 ~ ${answers.email}<br />
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/mirrorlessmind)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/mirrorlessmind/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='30'>](www.mirrorlessmind.com)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='30'>](mirrorlessmind)  
